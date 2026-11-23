@@ -1,2 +1,2 @@
 # ca-a-palavras-
-O meu jogo quebra-cabeça, vai ser um jogo educativo sobre matérias escolar.
+O meu jogo caça palavra, vai ser um jogo educativo sobre matérias escolar.
